@@ -1,0 +1,8 @@
+C:\Users\Arnold\documents\visual studio 2015\Projects\Szyfrant\UnitTestProject1RSA\bin\Debug\UnitTestProject1RSA.dll
+C:\Users\Arnold\documents\visual studio 2015\Projects\Szyfrant\UnitTestProject1RSA\bin\Debug\UnitTestProject1RSA.pdb
+C:\Users\Arnold\documents\visual studio 2015\Projects\Szyfrant\UnitTestProject1RSA\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Arnold\documents\visual studio 2015\Projects\Szyfrant\UnitTestProject1RSA\bin\Debug\Szyfrant.exe
+C:\Users\Arnold\documents\visual studio 2015\Projects\Szyfrant\UnitTestProject1RSA\bin\Debug\Szyfrant.pdb
+C:\Users\Arnold\documents\visual studio 2015\Projects\Szyfrant\UnitTestProject1RSA\obj\Debug\UnitTestRSA.csprojResolveAssemblyReference.cache
+C:\Users\Arnold\documents\visual studio 2015\Projects\Szyfrant\UnitTestProject1RSA\obj\Debug\UnitTestProject1RSA.dll
+C:\Users\Arnold\documents\visual studio 2015\Projects\Szyfrant\UnitTestProject1RSA\obj\Debug\UnitTestProject1RSA.pdb

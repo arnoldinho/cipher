@@ -1,0 +1,8 @@
+C:\Users\Arnold\documents\visual studio 2015\Projects\Szyfrant\UnitTestRot13\bin\Debug\UnitTestRot13.dll
+C:\Users\Arnold\documents\visual studio 2015\Projects\Szyfrant\UnitTestRot13\bin\Debug\UnitTestRot13.pdb
+C:\Users\Arnold\documents\visual studio 2015\Projects\Szyfrant\UnitTestRot13\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Arnold\documents\visual studio 2015\Projects\Szyfrant\UnitTestRot13\bin\Debug\Szyfrant.exe
+C:\Users\Arnold\documents\visual studio 2015\Projects\Szyfrant\UnitTestRot13\bin\Debug\Szyfrant.pdb
+C:\Users\Arnold\documents\visual studio 2015\Projects\Szyfrant\UnitTestRot13\obj\Debug\UnitTestRot13.csprojResolveAssemblyReference.cache
+C:\Users\Arnold\documents\visual studio 2015\Projects\Szyfrant\UnitTestRot13\obj\Debug\UnitTestRot13.dll
+C:\Users\Arnold\documents\visual studio 2015\Projects\Szyfrant\UnitTestRot13\obj\Debug\UnitTestRot13.pdb

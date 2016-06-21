@@ -1,0 +1,8 @@
+C:\Users\Arnold\documents\visual studio 2015\Projects\Szyfrant\UnitTestAES\obj\Debug\UnitTestAES.csprojResolveAssemblyReference.cache
+C:\Users\Arnold\documents\visual studio 2015\Projects\Szyfrant\UnitTestAES\bin\Debug\UnitTestAES.dll
+C:\Users\Arnold\documents\visual studio 2015\Projects\Szyfrant\UnitTestAES\bin\Debug\UnitTestAES.pdb
+C:\Users\Arnold\documents\visual studio 2015\Projects\Szyfrant\UnitTestAES\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Arnold\documents\visual studio 2015\Projects\Szyfrant\UnitTestAES\bin\Debug\Szyfrant.exe
+C:\Users\Arnold\documents\visual studio 2015\Projects\Szyfrant\UnitTestAES\bin\Debug\Szyfrant.pdb
+C:\Users\Arnold\documents\visual studio 2015\Projects\Szyfrant\UnitTestAES\obj\Debug\UnitTestAES.dll
+C:\Users\Arnold\documents\visual studio 2015\Projects\Szyfrant\UnitTestAES\obj\Debug\UnitTestAES.pdb

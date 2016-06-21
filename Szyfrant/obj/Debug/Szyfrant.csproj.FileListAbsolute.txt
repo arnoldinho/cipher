@@ -1,0 +1,9 @@
+c:\users\arnold\documents\visual studio 2015\Projects\Szyfrant\Szyfrant\bin\Debug\Szyfrant.exe.config
+c:\users\arnold\documents\visual studio 2015\Projects\Szyfrant\Szyfrant\bin\Debug\Szyfrant.exe
+c:\users\arnold\documents\visual studio 2015\Projects\Szyfrant\Szyfrant\bin\Debug\Szyfrant.pdb
+c:\users\arnold\documents\visual studio 2015\Projects\Szyfrant\Szyfrant\obj\Debug\Szyfrant.Form1.resources
+c:\users\arnold\documents\visual studio 2015\Projects\Szyfrant\Szyfrant\obj\Debug\Szyfrant.Properties.Resources.resources
+c:\users\arnold\documents\visual studio 2015\Projects\Szyfrant\Szyfrant\obj\Debug\Szyfrant.csproj.GenerateResource.Cache
+c:\users\arnold\documents\visual studio 2015\Projects\Szyfrant\Szyfrant\obj\Debug\Szyfrant.exe
+c:\users\arnold\documents\visual studio 2015\Projects\Szyfrant\Szyfrant\obj\Debug\Szyfrant.pdb
+c:\users\arnold\documents\visual studio 2015\Projects\Szyfrant\Szyfrant\obj\Debug\Szyfrant.csprojResolveAssemblyReference.cache

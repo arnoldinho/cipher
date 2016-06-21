@@ -1,0 +1,8 @@
+C:\Users\Arnold\documents\visual studio 2015\Projects\Szyfrant\UnitTestCaesar\bin\Debug\UnitTestCaesar.dll
+C:\Users\Arnold\documents\visual studio 2015\Projects\Szyfrant\UnitTestCaesar\bin\Debug\UnitTestCaesar.pdb
+C:\Users\Arnold\documents\visual studio 2015\Projects\Szyfrant\UnitTestCaesar\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Arnold\documents\visual studio 2015\Projects\Szyfrant\UnitTestCaesar\bin\Debug\Szyfrant.exe
+C:\Users\Arnold\documents\visual studio 2015\Projects\Szyfrant\UnitTestCaesar\bin\Debug\Szyfrant.pdb
+C:\Users\Arnold\documents\visual studio 2015\Projects\Szyfrant\UnitTestCaesar\obj\Debug\UnitTestCaesar.csprojResolveAssemblyReference.cache
+C:\Users\Arnold\documents\visual studio 2015\Projects\Szyfrant\UnitTestCaesar\obj\Debug\UnitTestCaesar.dll
+C:\Users\Arnold\documents\visual studio 2015\Projects\Szyfrant\UnitTestCaesar\obj\Debug\UnitTestCaesar.pdb
